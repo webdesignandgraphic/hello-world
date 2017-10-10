@@ -1,0 +1,16 @@
+/*fingers 
+css*/
+
+body {
+    background: gray;
+    text-align: center;
+
+}
+
+#fin {
+    font-size: 200px;
+}
+button {
+    float: right;
+    margin-right: 750px;
+}
